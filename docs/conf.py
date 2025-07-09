@@ -1,4 +1,4 @@
-project = 'Garmin'
+project = 'TDS Telecom'
 author = 'Your Name'
 release = '1.0'
 
